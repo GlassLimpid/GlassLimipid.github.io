@@ -1,12 +1,12 @@
 # Site settings
-title: GlassLimipid -A glass for you
-description: '-A glass for you.' # this means to ignore newlines until "baseurl:"
+title: GlassLimipid -Looking for a glass cup for yourself
+description: '-A glass for you.' # this means to ignore neGwlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://GlassLimipid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/glasslogo.png"
-logo-icon: "/assets/img/branding/glassicon.png"
-logo-icon-SEO: "/assets/img/branding/glassicon.png" # must be a non SVG file
+logo-icon: "/assets/img/favicon/favicon.ico"
+logo-icon-SEO: "/assets/img/favicon/favicon.ico" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
