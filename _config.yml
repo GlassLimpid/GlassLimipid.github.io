@@ -26,12 +26,16 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: GlassLimpid office # add your name
 author-pic: mylogosquar.png
+<<<<<<< HEAD
 company:
   profile: "GlassLimpid Office was established in 2010, and for over a decade, we have been dedicated to producing high-quality glassware, especially glass cups. Our company has grown from a small workshop to a well-known enterprise with modern production equipment and a professional design team. We always adhere to the principle of balancing innovation and quality to meet the ever-changing market demands."
   history_and_goals: "Since its inception, GlassLimpid Office has upheld the philosophy of 'quality first, customer foremost,' leading to steady growth. Our products have gained a good reputation in the domestic market and successfully entered the international market, earning the love and trust of consumers worldwide. In the future, we will continue to focus on technological innovation and product development, striving to become a leader in the global glassware industry."
   minimalist_spirit: "GlassLimpid Office pursues minimalism in product design. We believe that simple designs not only enhance the beauty of the product but also better showcase the purity and transparency of glass. Each glass cup is meticulously designed, with every line and shape reflecting the essence of minimalist art. Through our products, we aim to allow users to experience the purity and simplicity of life."
   craftsmanship: "At GlassLimpid Office, every glass cup embodies the spirit of craftsmanship. We have a team of experienced artisans who pour immense passion and effort into every production step. From blowing and cutting to polishing and final quality inspection, every process is strictly controlled to achieve perfection. This meticulous approach ensures that each of our products boasts superior quality and unique character."
   conclusion: "GlassLimpid Office will continue to uphold the spirit of minimalism and craftsmanship, providing consumers with more high-quality glassware. We believe that with our dedication and passion, we will achieve even greater success in the future and create a beautiful future together with you."
+=======
+about-author: At OceanBreeze Glassware, our journey is one of passion, precision, and perseverance. For decades, we have been dedicated to the art of glassmaking, blending traditional craftsmanship with modern aesthetics to create pieces that are both timeless and exquisite.Our commitment to craftsmanship is unwavering. Every OceanBreeze Glass Tumbler is a testament to the skill and dedication of our artisans, who pour their heart and soul into each creation. With meticulous attention to detail, they shape and refine every glass, ensuring that it meets our exacting standards of quality and beauty.We believe in the power of minimalist design. Inspired by the serene beauty of nature, our glassware embodies simplicity and elegance. The textured patterns and tranquil hues of our tumblers are carefully chosen to evoke a sense of calm and sophistication, enhancing the drinking experience with every sip.Our history is rich and storied, rooted in a tradition of excellence that spans generations. We have honed our techniques over the years, constantly innovating while staying true to our core values. This legacy of craftsmanship and design excellence is reflected in every piece we create, making OceanBreeze Glassware a symbol of enduring beauty and quality.We are deeply grateful for your trust and support. By choosing OceanBreeze, you become a part of our story—a story of dedication, artistry, and a relentless pursuit of perfection. Thank you for allowing us to bring a touch of our heritage into your home.Warm regards.
+>>>>>>> 8d40df73d5d7731acfc696c7ef06c968fb78932f
 
 # Contact links
 email: GlassLimipid@163.com # Add your Email address
@@ -95,6 +99,7 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+<<<<<<< HEAD
 
 collections:
   corporatecultures:
@@ -102,3 +107,5 @@ collections:
     
   jionuss:
     output: true
+=======
+>>>>>>> 8d40df73d5d7731acfc696c7ef06c968fb78932f
