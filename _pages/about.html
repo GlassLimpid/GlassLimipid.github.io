@@ -12,8 +12,25 @@ permalink: about:output_ext
       <div class="author-image-container">
         <a href='{{ site.website }}'><img src="{{ relativebase }}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-      <h3>{{site.author}}</h3>
-      <p class="subtitle">{{site.about-author}}</p>
+      <h2>{{site.author}}</h2>
+      <p class="subtitle">
+
+        <br>
+        <h3>Company Profile</h3>
+        <p>{{ site.company.profile }}</p>
+        
+        <h3>Development History and Goals</h3>
+        <p>{{ site.company.history_and_goals }}</p>
+        
+        <h3>Minimalist Spirit</h3>
+        <p>{{ site.company.minimalist_spirit }}</p>
+        
+        <h3>Craftsmanship</h3>
+        <p>{{ site.company.craftsmanship }}</p>
+        
+        <h3>Conclusion</h3>
+        <p>{{ site.company.conclusion }}</p>
+      </p>
     </section>
     <section class="about-body">
       <ul class="contact-list">

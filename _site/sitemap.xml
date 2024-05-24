@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/corporatecultures/2024-5-16-first-culture.html</loc>
+<lastmod>2024-05-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/corporatecultures/2024-5-16-second-culture.html</loc>
+<lastmod>2024-05-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jionuss/2025-5-24-Marketing%20Manager.html</loc>
+<lastmod>2024-05-24T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jionuss/2025-5-24-Software%20Engineer.html</loc>
+<lastmod>2024-05-24T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/newgalss1-copy-5.html</loc>
 <lastmod>2021-04-16T00:32:20+00:00</lastmod>
 </url>
@@ -31,10 +47,16 @@
 <loc>http://localhost:4000/archive.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/corporateculture.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ipfs-404.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/joinus.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag.html</loc>

@@ -8,3 +8,19 @@ layout: null
     {% endfor %}
   ]
 }
+
+{
+  "joinuss" : [
+  {% for joinus in joinuss.posts %}
+  ".{{ joinus.url }}"{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+}
+
+{
+  "corporatecultures" : [
+  {% for corporateculture in corporatecultures %}
+  ".{{ corporateculture.url }}"{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+}
