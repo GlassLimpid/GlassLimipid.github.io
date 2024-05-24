@@ -99,7 +99,6 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
-<<<<<<< HEAD
 
 collections:
   corporatecultures:
@@ -107,5 +106,3 @@ collections:
     
   jionuss:
     output: true
-=======
->>>>>>> 8d40df73d5d7731acfc696c7ef06c968fb78932f
